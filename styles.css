@@ -5,6 +5,7 @@ body {
 
 h1 {
   color:#791cb0;
+  font-size: 40px
 }
 
 h2 {
@@ -25,4 +26,10 @@ hr {
 
 img {
   height: 180px;
+}
+
+.center{
+  margin:auto;
+  width:50%;
+  text-align: center;
 }
